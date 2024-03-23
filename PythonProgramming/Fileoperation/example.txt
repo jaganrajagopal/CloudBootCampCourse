@@ -1,0 +1,4 @@
+Hello, Python!
+This is an example of writing text to a file.
+Each line is separated by a newline character.
+ append on the file
